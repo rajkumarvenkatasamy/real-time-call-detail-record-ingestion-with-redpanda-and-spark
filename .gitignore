@@ -1,3 +1,7 @@
+pyspark-app/checkpoint-dir/
+cdr_producer/.idea/
+pyspark-app/.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
